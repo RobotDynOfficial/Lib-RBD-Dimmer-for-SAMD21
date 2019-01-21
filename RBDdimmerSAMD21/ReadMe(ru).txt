@@ -43,4 +43,4 @@
         Пример dimmer4.setState(ON); delay(100); dimmer4.changeState; delay(100);
   
     10. Функция toggleSettings плавное изменение значения димминга увеличение и снижение в заданных границах
-        Пример находится в папке \RBDdimmer\examples\SimpleToggleDimmer
+        Пример находится в папке \RBDdimmerSAMD21\examples\SimpleToggleDimmer
