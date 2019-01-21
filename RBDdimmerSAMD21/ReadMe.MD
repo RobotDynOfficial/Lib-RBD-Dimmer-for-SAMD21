@@ -42,4 +42,4 @@ This library can simplify user code with following functions:
         Пример dimmer4.setState(ON); delay(100); dimmer4.changeState; delay(100);
   
     10. Function toggleSettings smooth change of dimming value up or down in a defined range
-        Example located in \RBDdimmer\examples\SimpleToggleDimmer
+        Example located in \RBDdimmerSAMD21\examples\SimpleToggleDimmer
