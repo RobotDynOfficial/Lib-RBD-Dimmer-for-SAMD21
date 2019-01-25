@@ -26,101 +26,99 @@ Current library: https://github.com/RobotDynOfficial/RBDDimmer
     <tr>
         <td style="border: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 10px 15px 10px 15px;">ESP8266</td>
         <td style="border: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 10px 15px 10px 15px;">
-            <ul>
-                <li style="list-style-type: none; margin-left: -30px;">D1(IO5)</li>
-                <li style="list-style-type: none; margin-left: -30px;">D5(IO14)</li>
-                <li style="list-style-type: none; margin-left: -30px;">D7(IO13)</li>
+            <ul style="list-style-type: none; margin-left: -30px;">
+                <li >D1(IO5)</li>
+                <li >D5(IO14)</li>
+                <li >D7(IO13)</li>
             </ul>
         </td>
         <td style="border: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 10px 15px 10px 15px;">
-            <ul>
-                <li style="list-style-type: none; margin-left: -30px;">D2(IO4)</li>
-                <li style="list-style-type: none; margin-left: -30px;">D6(IO12)</li>
-                <li style="list-style-type: none; margin-left: -30px;">D8(IO15)</li>
+            <ul style="list-style-type: none; margin-left: -30px;">
+                <li >D2(IO4)</li>
+                <li >D6(IO12)</li>
+                <li >D8(IO15)</li>
             </ul>
         </td>
         <td style="border: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 10px 15px 10px 15px;">
-            <ul>
-                <li style="list-style-type: none; margin-left: -30px;">D0(IO16)</li>
-                <li style="list-style-type: none; margin-left: -30px;">D2(IO4)</li>
-                <li style="list-style-type: none; margin-left: -30px;">D6(IO12)</li>
-                <li style="list-style-type: none; margin-left: -30px;">D8(IO15)</li>
-
+            <ul style="list-style-type: none; margin-left: -30px;">
+                <li >D0(IO16)</li>
+                <li >D2(IO4)</li>
+                <li >D6(IO12)</li>
+                <li >D8(IO15)</li>
             </ul>
         </td>
         <td style="border: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 10px 15px 10px 15px;">
-            <ul>
-                <li style="list-style-type: none; margin-left: -30px;">D1(IO5)</li>
-                <li style="list-style-type: none; margin-left: -30px;">D5(IO14)</li>
-                <li style="list-style-type: none; margin-left: -30px;">D7(IO13)</li>
+            <ul style="list-style-type: none; margin-left: -30px;">
+                <li >D1(IO5)</li>
+                <li >D5(IO14)</li>
+                <li >D7(IO13)</li>
             </ul>
         </td>
     </tr>
     <tr>
         <td style="border: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 10px 15px 10px 15px;">ESP32</td>
         <td style="border: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 10px 15px 10px 15px;">
-            <ul>
-                <li style="list-style-type: none; margin-left: -30px;">4(GPI36)</li>
-                <li style="list-style-type: none; margin-left: -30px;">5(GPI39)</li>
-                <li style="list-style-type: none; margin-left: -30px;">8(GPO32)</li>
-                <li style="list-style-type: none; margin-left: -30px;">10(GPI025)</li>
-                <li style="list-style-type: none; margin-left: -30px;">12(GPIO27)</li>
-                <li style="list-style-type: none; margin-left: -30px;">14(GPIO12)</li>
-                <li style="list-style-type: none; margin-left: -30px;">21(GPIO7)</li>
-                <li style="list-style-type: none; margin-left: -30px;">24(GPIO2)</li>
-                <li style="list-style-type: none; margin-left: -30px;">26(GPIO4)</li>
-                <li style="list-style-type: none; margin-left: -30px;">28(GPIO17)</li>
-                <li style="list-style-type: none; margin-left: -30px;">30(GPIO18)</li>
-                <li style="list-style-type: none; margin-left: -30px;">33(GPIO21)</li>
-                <li style="list-style-type: none; margin-left: -30px;">36(GPIO22)</li>
+            <ul style="list-style-type: none; margin-left: -30px;">
+                <li >4(GPI36)</li>
+                <li >5(GPI39)</li>
+                <li >8(GPO32)</li>
+                <li >10(GPI025)</li>
+                <li >12(GPIO27)</li>
+                <li >14(GPIO12)</li>
+                <li >21(GPIO7)</li>
+                <li >24(GPIO2)</li>
+                <li >26(GPIO4)</li>
+                <li >28(GPIO17)</li>
+                <li >30(GPIO18)</li>
+                <li >33(GPIO21)</li>
+                <li >36(GPIO22)</li>
             </ul>
         </td>
         <td style="border: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 10px 15px 10px 15px;">
-            <ul>
-                <li style="list-style-type: none; margin-left: -30px;">6(GPI34)</li>
-                <li style="list-style-type: none; margin-left: -30px;">7(GPI35)</li>
-                <li style="list-style-type: none; margin-left: -30px;">9(GP033)</li>
-                <li style="list-style-type: none; margin-left: -30px;">11(GPIO26)</li>
-                <li style="list-style-type: none; margin-left: -30px;">13(GPIO14)</li>
-                <li style="list-style-type: none; margin-left: -30px;">16(GPIO13)</li>
-                <li style="list-style-type: none; margin-left: -30px;">23(GPIO15)</li>
-                <li style="list-style-type: none; margin-left: -30px;">25(GPIO0)</li>
-                <li style="list-style-type: none; margin-left: -30px;">27(GPIO16)</li>
-                <li style="list-style-type: none; margin-left: -30px;">29(GPIO5)</li>
-                <li style="list-style-type: none; margin-left: -30px;">31(GPIO19)</li>
-                <li style="list-style-type: none; margin-left: -30px;">35(GPIO1)</li>
-                <li style="list-style-type: none; margin-left: -30px;">37(GPIO23)</li>
+            <ul style="list-style-type: none; margin-left: -30px;">
+                <li >6(GPI34)</li>
+                <li >7(GPI35)</li>
+                <li >9(GP033)</li>
+                <li >11(GPIO26)</li>
+                <li >13(GPIO14)</li>
+                <li >16(GPIO13)</li>
+                <li >23(GPIO15)</li>
+                <li >25(GPIO0)</li>
+                <li >27(GPIO16)</li>
+                <li >29(GPIO5)</li>
+                <li >31(GPIO19)</li>
+                <li >35(GPIO1)</li>
+                <li >37(GPIO23)</li>
             </ul>
         </td>
         <td style="border: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 10px 15px 10px 15px;">
-            <ul>
-                <li style="list-style-type: none; margin-left: -30px;">8(GPO32)</li>
-                <li style="list-style-type: none; margin-left: -30px;">10(GPIO25)</li>
-                <li style="list-style-type: none; margin-left: -30px;">12(GPIO27)</li>
-                <li style="list-style-type: none; margin-left: -30px;">14(GPIO12</li>
-                <li style="list-style-type: none; margin-left: -30px;">23(GPIO15)</li>
-                <li style="list-style-type: none; margin-left: -30px;">25(GPIO0)</li>
-                <li style="list-style-type: none; margin-left: -30px;">27(GPIO16)</li>
-                <li style="list-style-type: none; margin-left: -30px;">29(GPIO5)</li>
-                <li style="list-style-type: none; margin-left: -30px;">31(GPIO19)</li>
-
-                <li style="list-style-type: none; margin-left: -30px;">34(GPIO3)</li>
-                <li style="list-style-type: none; margin-left: -30px;">36(GPIO22)</li>
+            <ul style="list-style-type: none; margin-left: -30px;">
+                <li >8(GPO32)</li>
+                <li >10(GPIO25)</li>
+                <li >12(GPIO27)</li>
+                <li >14(GPIO12</li>
+                <li >23(GPIO15)</li>
+                <li >25(GPIO0)</li>
+                <li >27(GPIO16)</li>
+                <li >29(GPIO5)</li>
+                <li >31(GPIO19)</li>
+                <li >34(GPIO3)</li>
+                <li >36(GPIO22)</li>
             </ul>
         </td>
         <td style="border: 1px solid #bbb; border-bottom: 1px solid #bbb; padding: 10px 15px 10px 15px;">
-            <ul>
-                <li style="list-style-type: none; margin-left: -30px;">9(GP033)</li>
-                <li style="list-style-type: none; margin-left: -30px;">11(GPIO26)</li>
-                <li style="list-style-type: none; margin-left: -30px;">13(GPIO14)</li>
-                <li style="list-style-type: none; margin-left: -30px;">16(GPIO13)</li>
-                <li style="list-style-type: none; margin-left: -30px;">24(GPIO2)</li>
-                <li style="list-style-type: none; margin-left: -30px;">26(GPIO4)</li>
-                <li style="list-style-type: none; margin-left: -30px;">28(GPIO17)</li>
-                <li style="list-style-type: none; margin-left: -30px;">30(GPIO18)</li>
-                <li style="list-style-type: none; margin-left: -30px;">33(GPIO21)</li>
-                <li style="list-style-type: none; margin-left: -30px;">35(GPIO1)</li>
-                <li style="list-style-type: none; margin-left: -30px;">37(GPIO23)</li>
+            <ul style="list-style-type: none; margin-left: -30px;">
+                <li >9(GP033)</li>
+                <li >11(GPIO26)</li>
+                <li >13(GPIO14)</li>
+                <li >16(GPIO13)</li>
+                <li >24(GPIO2)</li>
+                <li >26(GPIO4)</li>
+                <li >28(GPIO17)</li>
+                <li >30(GPIO18)</li>
+                <li >33(GPIO21)</li>
+                <li >35(GPIO1)</li>
+                <li >37(GPIO23)</li>
             </ul>
         </td>
     </tr>
